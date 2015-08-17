@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LearnAndroid</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nameText">姓名:</string>
+    <string name="sexText">性别:</string>
+    <string name="question1">您的操作系统是？</string>
+    <string name="Windows_XP">Windows XP</string>
+    <string name="Windows_7">Windows 7</string>
+    <string name="Linux">Linux</string>
+    <string name="Mac_OS">Mac OS</string>
+
+</resources>
